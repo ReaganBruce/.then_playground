@@ -2,9 +2,6 @@
 
 <h1>.THEN</h1>
 
-<br>
-<br>
-
 <p>I've become so use to async/await when performing network requests, that I thought it would be fun to refamiliarize myself with <b>.then</b> syntax. </p>
 
 <br>
