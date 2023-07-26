@@ -5,7 +5,7 @@
 <p>I've become so use to async/await when performing network requests, that I thought it would be fun to refamiliarize myself with <b>.then</b> syntax. </p>
 
 <br>
-<p>Honestly, pretty neat in how promises are chained together.. I remember first learning this two years ago and not understanding the logic behind it at all 😂! </p>
+<p>Honestly, pretty neat with how promises are chained together.. I remember first learning this two years ago and not understanding the logic behind it at all 😂! </p>
 
 
 
